@@ -1,13 +1,29 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Welcome to Version 0.1.0 
 
-Things you may want to cover:
+The blog has a mock authentication on it. To login, please use the following credentials:
 
-* Ruby version
+* name: "TMAF"
+* password: "secret"
 
-* System dependencies
+Versions and Dependencies
+
+* Ruby version: {
+    ruby 2.6.3p62
+    rails 6.1.1 
+  }
+
+* System dependencies: {
+    @rails/actioncable: ^6.0.0,
+    @rails/activestorage: ^6.0.0,
+    @rails/ujs: ^6.0.0,
+    @rails/webpacker: 5.2.1,
+    turbolinks: ^5.2.0
+  }
+
+
+Future updates will address:
 
 * Configuration
 
@@ -21,4 +37,4 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
+Thank you for visiting! 
