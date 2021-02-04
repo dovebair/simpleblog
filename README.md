@@ -10,7 +10,7 @@ The blog has a mock authentication on it. To login, please use the following cre
 Versions and Dependencies
 
 * Ruby version: {
-    ruby 2.6.3p62,
+    ruby 2.6.3,
     rails 6.1.1 
   }
 
@@ -38,3 +38,14 @@ Future updates will address:
 * Deployment instructions
 
 Thank you for visiting! 
+
+
+/Users/mary/.yarn/bin:
+/Users/mary/.config/yarn/global/node_modules/.bin:
+/usr/local/bin:
+/usr/bin:
+/bin:
+/usr/sbin:
+/sbin:
+/Library/Apple/usr/bin:
+/Users/mary/.rvm/bin
