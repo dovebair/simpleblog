@@ -38,14 +38,3 @@ Future updates will address:
 * Deployment instructions
 
 Thank you for visiting! 
-
-
-/Users/mary/.yarn/bin:
-/Users/mary/.config/yarn/global/node_modules/.bin:
-/usr/local/bin:
-/usr/bin:
-/bin:
-/usr/sbin:
-/sbin:
-/Library/Apple/usr/bin:
-/Users/mary/.rvm/bin
